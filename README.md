@@ -1,16 +1,23 @@
-### Hi there 👋
+<div id="header" aling="left">
+        <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300" borderRadius="5">
+        <h1>Hi, I'm James</h1>
+        <h4>I am a passionate web developer, focused on the FrontEnd, however I am characterized by always wanting to learn more, learn new technologies, improve on what         I have already learned, I am passionate about how creative you can be and see that in development there are no limits to it</h4>
+</div>
 
-<!--
-**JamesSoFer/JamesSoFer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### About me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning: angular, view, aws and more
+- 💬 Ask me about: html, css, javascript, react, angular
+- 📫 How to reach me: solisjr1919@gmail.com 
+- 🕵️‍♀️ LinkedIn profile: [James Solis](https://www.linkedin.com/in/james-sol%C3%ADs-403410217/)
+- 😄 Pronouns: he/ him
+
+---
+
+### Stats:
+
+![James's GitHub stats](https://github-readme-stats.vercel.app/api?username=JamesSoFer&show_icons=true&theme=tokyonight)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JamesSoFer&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
