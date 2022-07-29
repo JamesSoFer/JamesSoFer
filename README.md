@@ -1,7 +1,7 @@
 <div id="header" aling="left">
         <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300" borderRadius="5">
         <h1>Hi, I'm James</h1>
-        <h4>I am a passionate web developer, focused on the FrontEnd, however I am characterized by always wanting to learn more, learn new technologies, improve on what         I have already learned, I am passionate about how creative you can be and see that in development there are no limits to it</h4>
+        <p>I am a passionate web developer, focused on the FrontEnd, however I am characterized by always wanting to learn more, learn new technologies, improve on what         I have already learned, I am passionate about how creative you can be and see that in development there are no limits to it</p>
 </div>
 
 ---
