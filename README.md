@@ -8,7 +8,7 @@
 
 ### About me:
 
-- 🌱 I’m currently learning: angular, view, aws and more
+- 🌱 I’m currently learning: angular, vue, aws and more
 - 💬 Ask me about: html, css, javascript, react, angular
 - 📫 How to reach me: solisjr1919@gmail.com 
 - 🕵️‍♀️ LinkedIn profile: [James Solis](https://www.linkedin.com/in/james-sol%C3%ADs-403410217/)
