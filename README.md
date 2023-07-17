@@ -9,10 +9,9 @@
 ### About me:
 
 - 🌱 I’m currently learning: angular, vue, aws and more
-- 💬 Ask me about: html, css, javascript, react, angular
+- 💬 Ask me about: html, css, javascript, react and other frontEnd technologies
 - 📫 How to reach me: solisjr1919@gmail.com 
 - 🕵️‍♀️ LinkedIn profile: [James Solis](https://www.linkedin.com/in/james-sol%C3%ADs-403410217/)
-- 😄 Pronouns: he/ him
 
 ---
 
